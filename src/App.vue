@@ -2,6 +2,7 @@
   <div id="app">
     <div>Changes from test2! Trying to create trouble!</div>
     <div>Test branch changes, Hola!!</div>
+    <div>After Katy's change</div>
   </div>
 </template>
 
