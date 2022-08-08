@@ -2,6 +2,7 @@
   <div id="app">
     <div>Changes from test2! Trying to create merge conflicts</div>
     <div>Test branch changes, Hello!</div>
+    <div>After Katy's change</div>
   </div>
 </template>
 
